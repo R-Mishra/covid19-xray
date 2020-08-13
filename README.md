@@ -1,4 +1,4 @@
-# A Fast AI Solution to Detect COVID-19
+# An AI Solution to Detect COVID-19
 
 COVID-19, a novel coronavirus that originated in China in late 2019, has infected over 2.5 million people and has delt a multi-faceted blow to our lives. It has affected the health and economic aspects of our society and it is important to find solutions that will help reduce the spread of the virus. One such approach is to carry out rapid testing and quarantine those who are diagnosed with the virus. However, to roll out testing at such a large scale is a challenge. This work explores the efficacy of a low cost widely available method of testing - CXR imaging as implemented with artifical intelligence to detect COVID-19. The deep learning solution developed in this paper predicts whether a patient has the infection based on CXR with an accuracy of 85%. Moreover, the solution has been analyzed to understand the reasoning behind the predictions to develop reliability and trustworthiness. Finally, an attempt has been made to establish the suitability of CXR as a large scale testing method.
  
